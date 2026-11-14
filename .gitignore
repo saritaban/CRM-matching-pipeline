@@ -1,0 +1,12 @@
+.env
+venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+# Database backups
+*.backup
+*.bak
+*.dump
+
+# Backup folder
+backups/

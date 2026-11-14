@@ -1,0 +1,2071 @@
+{
+    "parent_account_id": "0015QAPLGS3FVYEEEM",
+    "website_location_count": 34,
+    "crm_account_count": 127,
+    "website_classification_summary": {
+        "CONFIDENT_MATCH": 28,
+        "NO_CRM_ACCOUNT": 3,
+        "MATCH_WRONG_PARENT": 1,
+        "POSSIBLE_MATCH": 2
+    },
+    "website_results": [
+        {
+            "website_location_id": 1,
+            "website_name": "Bellhaven of Maplewood",
+            "website_address": {
+                "street": "210 Orchard Lane",
+                "city": "Maplewood",
+                "state": "OH",
+                "zip": "44280"
+            },
+            "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-maplewood",
+            "classification": "CONFIDENT_MATCH",
+            "best_candidate": {
+                "account_id": "001L3LGR6W69J8DYYV",
+                "account_name": "Bellhaven of Maplewood",
+                "parent_account_id": "0015QAPLGS3FVYEEEM",
+                "score": 100.0,
+                "name_score": 100.0,
+                "street_score": 100.0,
+                "address_match_count": 4,
+                "address_evidence": {
+                    "street_match": true,
+                    "city_match": true,
+                    "state_match": true,
+                    "zip_match": true
+                }
+            },
+            "other_candidates": [
+                {
+                    "account_id": "0019M1Z45PGV2DJ971",
+                    "account_name": "Maplewood Senior Care Center",
+                    "parent_account_id": "00139TNDS8HNLUZ5A6",
+                    "score": 63.6,
+                    "name_score": 60.0,
+                    "street_score": 32.0,
+                    "address_match_count": 3,
+                    "address_evidence": {
+                        "street_match": false,
+                        "city_match": true,
+                        "state_match": true,
+                        "zip_match": true
+                    }
+                },
+                {
+                    "account_id": "001UKEFGADQ8YCZ4YM",
+                    "account_name": "Bellhaven Meadows of Findlay",
+                    "parent_account_id": "",
+                    "score": 53.78,
+                    "name_score": 64.0,
+                    "street_score": 60.61,
+                    "address_match_count": 1,
+                    "address_evidence": {
+                        "street_match": false,
+                        "city_match": false,
+                        "state_match": true,
+                        "zip_match": false
+                    }
+                }
+            ]
+        },
+        {
+            "website_location_id": 2,
+            "website_name": "Bellhaven of New Carlisle",
+            "website_address": {
+                "street": "875 Elm Street",
+                "city": "New Carlisle",
+                "state": "OH",
+                "zip": "45344"
+            },
+            "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-new-carlisle",
+            "classification": "CONFIDENT_MATCH",
+            "best_candidate": {
+                "account_id": "001AQGPZ5G5VRES536",
+                "account_name": "Bellhaven of New Carlisle",
+                "parent_account_id": "0015QAPLGS3FVYEEEM",
+                "score": 100.0,
+                "name_score": 100.0,
+                "street_score": 100.0,
+                "address_match_count": 4,
+                "address_evidence": {
+                    "street_match": true,
+                    "city_match": true,
+                    "state_match": true,
+                    "zip_match": true
+                }
+            },
+            "other_candidates": [
+                {
+                    "account_id": "00142EBFF13E38186A",
+                    "account_name": "Bellhaven of Chagrin Falls",
+                    "parent_account_id": "0015QAPLGS3FVYEEEM",
+                    "score": 54.6,
+                    "name_score": 70.59,
+                    "street_score": 54.55,
+                    "address_match_count": 1,
+                    "address_evidence": {
+                        "street_match": false,
+                        "city_match": false,
+                        "state_match": true,
+                        "zip_match": false
+                    }
+                },
+                {
+                    "account_id": "001LGFPBJY4N9MB6KL",
+                    "account_name": "Bellhaven Crossings of Lima",
+                    "parent_account_id": "0015QAPLGS3FVYEEEM",
+                    "score": 52.69,
+                    "name_score": 69.23,
+                    "street_score": 50.0,
+                    "address_match_count": 1,
+                    "address_evidence": {
+                        "street_match": false,
+                        "city_match": false,
+                        "state_match": true,
+                        "zip_match": false
+                    }
+                }
+            ]
+        },
+        {
+            "website_location_id": 3,
+            "website_name": "Bellhaven of Wooster",
+            "website_address": {
+                "street": "2301 Cleveland Road",
+                "city": "Wooster",
+                "state": "OH",
+                "zip": "44691"
+            },
+            "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-wooster",
+            "classification": "CONFIDENT_MATCH",
+            "best_candidate": {
+                "account_id": "001W5G121A7SMRP58M",
+                "account_name": "Bellhaven of Wooster",
+                "parent_account_id": "0015QAPLGS3FVYEEEM",
+                "score": 100.0,
+                "name_score": 100.0,
+                "street_score": 100.0,
+                "address_match_count": 4,
+                "address_evidence": {
+                    "street_match": true,
+                    "city_match": true,
+                    "state_match": true,
+                    "zip_match": true
+                }
+            },
+            "other_candidates": [
+                {
+                    "account_id": "001CF3LDWVRGL09P4F",
+                    "account_name": "Bellhaven of Portsmouth",
+                    "parent_account_id": "0015QAPLGS3FVYEEEM",
+                    "score": 51.38,
+                    "name_score": 74.42,
+                    "street_score": 38.71,
+                    "address_match_count": 1,
+                    "address_evidence": {
+                        "street_match": false,
+                        "city_match": false,
+                        "state_match": true,
+                        "zip_match": false
+                    }
+                },
+                {
+                    "account_id": "001L3LGR6W69J8DYYV",
+                    "account_name": "Bellhaven of Maplewood",
+                    "parent_account_id": "0015QAPLGS3FVYEEEM",
+                    "score": 50.25,
+                    "name_score": 61.9,
+                    "street_score": 51.61,
+                    "address_match_count": 1,
+                    "address_evidence": {
+                        "street_match": false,
+                        "city_match": false,
+                        "state_match": true,
+                        "zip_match": false
+                    }
+                }
+            ]
+        },
+        {
+            "website_location_id": 4,
+            "website_name": "Bellhaven Terrace of Akron",
+            "website_address": {
+                "street": "55 Ridgewood Avenue",
+                "city": "Akron",
+                "state": "OH",
+                "zip": "44313"
+            },
+            "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-terrace-of-akron",
+            "classification": "CONFIDENT_MATCH",
+            "best_candidate": {
+                "account_id": "0019Y4J61ZBG4R00CD",
+                "account_name": "Bellhaven Terrace of Akron",
+                "parent_account_id": "0015QAPLGS3FVYEEEM",
+                "score": 100.0,
+                "name_score": 100.0,
+                "street_score": 100.0,
+                "address_match_count": 4,
+                "address_evidence": {
+                    "street_match": true,
+                    "city_match": true,
+                    "state_match": true,
+                    "zip_match": true
+                }
+            },
+            "other_candidates": [
+                {
+                    "account_id": "001W5G121A7SMRP58M",
+                    "account_name": "Bellhaven of Wooster",
+                    "parent_account_id": "0015QAPLGS3FVYEEEM",
+                    "score": 48.74,
+                    "name_score": 69.57,
+                    "street_score": 36.36,
+                    "address_match_count": 1,
+                    "address_evidence": {
+                        "street_match": false,
+                        "city_match": false,
+                        "state_match": true,
+                        "zip_match": false
+                    }
+                },
+                {
+                    "account_id": "00116ETS45BL7DTQP7",
+                    "account_name": "Bellhaven Care Center of Alliance",
+                    "parent_account_id": "0015QAPLGS3FVYEEEM",
+                    "score": 47.6,
+                    "name_score": 57.63,
+                    "street_score": 48.48,
+                    "address_match_count": 1,
+                    "address_evidence": {
+                        "street_match": false,
+                        "city_match": false,
+                        "state_match": true,
+                        "zip_match": false
+                    }
+                }
+            ]
+        },
+        {
+            "website_location_id": 5,
+            "website_name": "Bellhaven of Saline",
+            "website_address": {
+                "street": "980 W Michigan Ave",
+                "city": "Saline",
+                "state": "MI",
+                "zip": "48176"
+            },
+            "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-saline",
+            "classification": "CONFIDENT_MATCH",
+            "best_candidate": {
+                "account_id": "001MVVAPY6U5TVYRC4",
+                "account_name": "Bellhaven of Saline",
+                "parent_account_id": "0015QAPLGS3FVYEEEM",
+                "score": 97.69,
+                "name_score": 100.0,
+                "street_score": 92.31,
+                "address_match_count": 4,
+                "address_evidence": {
+                    "street_match": true,
+                    "city_match": true,
+                    "state_match": true,
+                    "zip_match": true
+                }
+            },
+            "other_candidates": [
+                {
+                    "account_id": "0016PVXH4B25HWR7QE",
+                    "account_name": "Bellhaven of Coldwater",
+                    "parent_account_id": "0015QAPLGS3FVYEEEM",
+                    "score": 62.79,
+                    "name_score": 63.41,
+                    "street_score": 91.43,
+                    "address_match_count": 2,
+                    "address_evidence": {
+                        "street_match": true,
+                        "city_match": false,
+                        "state_match": true,
+                        "zip_match": false
+                    }
+                },
+                {
+                    "account_id": "001EGU7BMJ942ZTRE6",
+                    "account_name": "Bellhaven of Owosso",
+                    "parent_account_id": "0015QAPLGS3FVYEEEM",
+                    "score": 52.6,
+                    "name_score": 73.68,
+                    "street_score": 43.75,
+                    "address_match_count": 1,
+                    "address_evidence": {
+                        "street_match": false,
+                        "city_match": false,
+                        "state_match": true,
+                        "zip_match": false
+                    }
+                }
+            ]
+        },
+        {
+            "website_location_id": 6,
+            "website_name": "Bellhaven of Goshen",
+            "website_address": {
+                "street": "1610 College Ave",
+                "city": "Goshen",
+                "state": "IN",
+                "zip": "46526"
+            },
+            "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-goshen",
+            "classification": "CONFIDENT_MATCH",
+            "best_candidate": {
+                "account_id": "001JQER1RMYKNRLNME",
+                "account_name": "Bellhaven of Goshen",
+                "parent_account_id": "0015QAPLGS3FVYEEEM",
+                "score": 100.0,
+                "name_score": 100.0,
+                "street_score": 100.0,
+                "address_match_count": 4,
+                "address_evidence": {
+                    "street_match": true,
+                    "city_match": true,
+                    "state_match": true,
+                    "zip_match": true
+                }
+            },
+            "other_candidates": [
+                {
+                    "account_id": "0016PVXH4B25HWR7QE",
+                    "account_name": "Bellhaven of Coldwater",
+                    "parent_account_id": "0015QAPLGS3FVYEEEM",
+                    "score": 43.81,
+                    "name_score": 73.17,
+                    "street_score": 48.48,
+                    "address_match_count": 0,
+                    "address_evidence": {
+                        "street_match": false,
+                        "city_match": false,
+                        "state_match": false,
+                        "zip_match": false
+                    }
+                },
+                {
+                    "account_id": "001A34WFSUYHCRBLFT",
+                    "account_name": "Bellhaven of Marietta",
+                    "parent_account_id": "001FWSQ30SFW6S7604",
+                    "score": 43.48,
+                    "name_score": 70.0,
+                    "street_score": 51.61,
+                    "address_match_count": 0,
+                    "address_evidence": {
+                        "street_match": false,
+                        "city_match": false,
+                        "state_match": false,
+                        "zip_match": false
+                    }
+                }
+            ]
+        },
+        {
+            "website_location_id": 7,
+            "website_name": "Bellhaven of Meadville",
+            "website_address": {
+                "street": "341 Chestnut St",
+                "city": "Meadville",
+                "state": "PA",
+                "zip": "16335"
+            },
+            "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-meadville",
+            "classification": "CONFIDENT_MATCH",
+            "best_candidate": {
+                "account_id": "001KC1NG7EZDEKKA3T",
+                "account_name": "Bellhaven of Meadville",
+                "parent_account_id": "0015QAPLGS3FVYEEEM",
+                "score": 100.0,
+                "name_score": 100.0,
+                "street_score": 100.0,
+                "address_match_count": 4,
+                "address_evidence": {
+                    "street_match": true,
+                    "city_match": true,
+                    "state_match": true,
+                    "zip_match": true
+                }
+            },
+            "other_candidates": [
+                {
+                    "account_id": "00184531EB13F262E4",
+                    "account_name": "Bellhaven of Carlisle",
+                    "parent_account_id": "0015QAPLGS3FVYEEEM",
+                    "score": 51.91,
+                    "name_score": 79.07,
+                    "street_score": 34.29,
+                    "address_match_count": 1,
+                    "address_evidence": {
+                        "street_match": false,
+                        "city_match": false,
+                        "state_match": true,
+                        "zip_match": false
+                    }
+                },
+                {
+                    "account_id": "001CVBBCSDM7YHN220",
+                    "account_name": "Bellhaven Shores of Erie",
+                    "parent_account_id": "0015QAPLGS3FVYEEEM",
+                    "score": 46.1,
+                    "name_score": 69.57,
+                    "street_score": 27.59,
+                    "address_match_count": 1,
+                    "address_evidence": {
+                        "street_match": false,
+                        "city_match": false,
+                        "state_match": true,
+                        "zip_match": false
+                    }
+                }
+            ]
+        },
+        {
+            "website_location_id": 8,
+            "website_name": "Bellhaven of Defiance",
+            "website_address": {
+                "street": "700 Carpenter Rd",
+                "city": "Defiance",
+                "state": "OH",
+                "zip": "43512"
+            },
+            "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-defiance",
+            "classification": "CONFIDENT_MATCH",
+            "best_candidate": {
+                "account_id": "001R4PXTUD9R6FNN8V",
+                "account_name": "Bellhaven of Defiance",
+                "parent_account_id": "0015QAPLGS3FVYEEEM",
+                "score": 100.0,
+                "name_score": 100.0,
+                "street_score": 100.0,
+                "address_match_count": 4,
+                "address_evidence": {
+                    "street_match": true,
+                    "city_match": true,
+                    "state_match": true,
+                    "zip_match": true
+                }
+            },
+            "other_candidates": [
+                {
+                    "account_id": "001A34WFSUYHCRBLFT",
+                    "account_name": "Bellhaven of Marietta",
+                    "parent_account_id": "001FWSQ30SFW6S7604",
+                    "score": 54.06,
+                    "name_score": 71.43,
+                    "street_score": 51.61,
+                    "address_match_count": 1,
+                    "address_evidence": {
+                        "street_match": false,
+                        "city_match": false,
+                        "state_match": true,
+                        "zip_match": false
+                    }
+                },
+                {
+                    "account_id": "001D8A1822FA615FAC",
+                    "account_name": "Bellhaven of Marietta",
+                    "parent_account_id": "0015QAPLGS3FVYEEEM",
+                    "score": 54.06,
+                    "name_score": 71.43,
+                    "street_score": 51.61,
+                    "address_match_count": 1,
+                    "address_evidence": {
+                        "street_match": false,
+                        "city_match": false,
+                        "state_match": true,
+                        "zip_match": false
+                    }
+                }
+            ]
+        },
+        {
+            "website_location_id": 9,
+            "website_name": "Bellhaven Woods of Toledo",
+            "website_address": {
+                "street": "4850 NW Sylvania Ave",
+                "city": "Toledo",
+                "state": "OH",
+                "zip": "43623"
+            },
+            "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-woods-of-toledo",
+            "classification": "CONFIDENT_MATCH",
+            "best_candidate": {
+                "account_id": "0014DHACE6WQU3RMM5",
+                "account_name": "Bellhaven Woods of Toledo",
+                "parent_account_id": "0015QAPLGS3FVYEEEM",
+                "score": 95.53,
+                "name_score": 100.0,
+                "street_score": 85.11,
+                "address_match_count": 3,
+                "address_evidence": {
+                    "street_match": false,
+                    "city_match": true,
+                    "state_match": true,
+                    "zip_match": true
+                }
+            },
+            "other_candidates": [
+                {
+                    "account_id": "001W5G121A7SMRP58M",
+                    "account_name": "Bellhaven of Wooster",
+                    "parent_account_id": "0015QAPLGS3FVYEEEM",
+                    "score": 51.57,
+                    "name_score": 75.56,
+                    "street_score": 37.84,
+                    "address_match_count": 1,
+                    "address_evidence": {
+                        "street_match": false,
+                        "city_match": false,
+                        "state_match": true,
+                        "zip_match": false
+                    }
+                },
+                {
+                    "account_id": "001H1JMVZWP46D5VUF",
+                    "account_name": "Bellhaven of Zanesville",
+                    "parent_account_id": "0015QAPLGS3FVYEEEM",
+                    "score": 49.12,
+                    "name_score": 62.5,
+                    "street_score": 47.06,
+                    "address_match_count": 1,
+                    "address_evidence": {
+                        "street_match": false,
+                        "city_match": false,
+                        "state_match": true,
+                        "zip_match": false
+                    }
+                }
+            ]
+        },
+        {
+            "website_location_id": 26,
+            "website_name": "Bellhaven Willow Creek",
+            "website_address": {
+                "street": "8060 Willow Creek Ln",
+                "city": "Portage",
+                "state": "MI",
+                "zip": "49024"
+            },
+            "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-willow-creek",
+            "classification": "NO_CRM_ACCOUNT",
+            "best_candidate": {
+                "account_id": "0017MN2JYAJBDS8WQZ",
+                "account_name": "Sunny Acres Retirement Home",
+                "parent_account_id": "0015QAPLGS3FVYEEEM",
+                "score": 73.06,
+                "name_score": 32.65,
+                "street_score": 100.0,
+                "address_match_count": 4,
+                "address_evidence": {
+                    "street_match": true,
+                    "city_match": true,
+                    "state_match": true,
+                    "zip_match": true
+                }
+            },
+            "other_candidates": [
+                {
+                    "account_id": "0016PVXH4B25HWR7QE",
+                    "account_name": "Bellhaven of Coldwater",
+                    "parent_account_id": "0015QAPLGS3FVYEEEM",
+                    "score": 45.18,
+                    "name_score": 63.64,
+                    "street_score": 32.43,
+                    "address_match_count": 1,
+                    "address_evidence": {
+                        "street_match": false,
+                        "city_match": false,
+                        "state_match": true,
+                        "zip_match": false
+                    }
+                },
+                {
+                    "account_id": "001MVVAPY6U5TVYRC4",
+                    "account_name": "Bellhaven of Saline",
+                    "parent_account_id": "0015QAPLGS3FVYEEEM",
+                    "score": 45.12,
+                    "name_score": 58.54,
+                    "street_score": 39.02,
+                    "address_match_count": 1,
+                    "address_evidence": {
+                        "street_match": false,
+                        "city_match": false,
+                        "state_match": true,
+                        "zip_match": false
+                    }
+                }
+            ]
+        },
+        {
+            "website_location_id": 10,
+            "website_name": "Bellhaven of Marion",
+            "website_address": {
+                "street": "199 Barks Rd W",
+                "city": "Marion",
+                "state": "OH",
+                "zip": "43302"
+            },
+            "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-marion",
+            "classification": "CONFIDENT_MATCH",
+            "best_candidate": {
+                "account_id": "0015L38R1Z5947ZZP7",
+                "account_name": "Bellhaven of Marion",
+                "parent_account_id": "0015QAPLGS3FVYEEEM",
+                "score": 97.1,
+                "name_score": 100.0,
+                "street_score": 90.32,
+                "address_match_count": 4,
+                "address_evidence": {
+                    "street_match": true,
+                    "city_match": true,
+                    "state_match": true,
+                    "zip_match": true
+                }
+            },
+            "other_candidates": [
+                {
+                    "account_id": "001A34WFSUYHCRBLFT",
+                    "account_name": "Bellhaven of Marietta",
+                    "parent_account_id": "001FWSQ30SFW6S7604",
+                    "score": 52.28,
+                    "name_score": 85.0,
+                    "street_score": 27.59,
+                    "address_match_count": 1,
+                    "address_evidence": {
+                        "street_match": false,
+                        "city_match": false,
+                        "state_match": true,
+                        "zip_match": false
+                    }
+                },
+                {
+                    "account_id": "001D8A1822FA615FAC",
+                    "account_name": "Bellhaven of Marietta",
+                    "parent_account_id": "0015QAPLGS3FVYEEEM",
+                    "score": 52.28,
+                    "name_score": 85.0,
+                    "street_score": 27.59,
+                    "address_match_count": 1,
+                    "address_evidence": {
+                        "street_match": false,
+                        "city_match": false,
+                        "state_match": true,
+                        "zip_match": false
+                    }
+                }
+            ]
+        },
+        {
+            "website_location_id": 11,
+            "website_name": "Bellhaven of Kalamazoo",
+            "website_address": {
+                "street": "3222 Gull Rd",
+                "city": "Kalamazoo",
+                "state": "MI",
+                "zip": "49048"
+            },
+            "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-kalamazoo",
+            "classification": "CONFIDENT_MATCH",
+            "best_candidate": {
+                "account_id": "001NSHWKQD0YJLPQ20",
+                "account_name": "Bellhaven of Kalamazoo",
+                "parent_account_id": "0015QAPLGS3FVYEEEM",
+                "score": 100.0,
+                "name_score": 100.0,
+                "street_score": 100.0,
+                "address_match_count": 4,
+                "address_evidence": {
+                    "street_match": true,
+                    "city_match": true,
+                    "state_match": true,
+                    "zip_match": true
+                }
+            },
+            "other_candidates": [
+                {
+                    "account_id": "001L3LGR6W69J8DYYV",
+                    "account_name": "Bellhaven of Maplewood",
+                    "parent_account_id": "0015QAPLGS3FVYEEEM",
+                    "score": 44.76,
+                    "name_score": 77.27,
+                    "street_score": 46.15,
+                    "address_match_count": 0,
+                    "address_evidence": {
+                        "street_match": false,
+                        "city_match": false,
+                        "state_match": false,
+                        "zip_match": false
+                    }
+                },
+                {
+                    "account_id": "001U1750VLVJAGG1S5",
+                    "account_name": "Bellhaven Gardens of Monroe",
+                    "parent_account_id": "0015QAPLGS3FVYEEEM",
+                    "score": 44.68,
+                    "name_score": 69.39,
+                    "street_score": 23.08,
+                    "address_match_count": 1,
+                    "address_evidence": {
+                        "street_match": false,
+                        "city_match": false,
+                        "state_match": true,
+                        "zip_match": false
+                    }
+                }
+            ]
+        },
+        {
+            "website_location_id": 12,
+            "website_name": "Bellhaven Court of Altoona",
+            "website_address": {
+                "street": "1125 Logan Blvd",
+                "city": "Altoona",
+                "state": "PA",
+                "zip": "16602"
+            },
+            "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-court-of-altoona",
+            "classification": "CONFIDENT_MATCH",
+            "best_candidate": {
+                "account_id": "0011D2P3CWSHMF81C8",
+                "account_name": "Bellhaven Court of Altoona",
+                "parent_account_id": "0015QAPLGS3FVYEEEM",
+                "score": 100.0,
+                "name_score": 100.0,
+                "street_score": 100.0,
+                "address_match_count": 4,
+                "address_evidence": {
+                    "street_match": true,
+                    "city_match": true,
+                    "state_match": true,
+                    "zip_match": true
+                }
+            },
+            "other_candidates": [
+                {
+                    "account_id": "00184531EB13F262E4",
+                    "account_name": "Bellhaven of Carlisle",
+                    "parent_account_id": "0015QAPLGS3FVYEEEM",
+                    "score": 45.82,
+                    "name_score": 63.83,
+                    "street_score": 34.29,
+                    "address_match_count": 1,
+                    "address_evidence": {
+                        "street_match": false,
+                        "city_match": false,
+                        "state_match": true,
+                        "zip_match": false
+                    }
+                },
+                {
+                    "account_id": "001BP1CWFQELP1V08N",
+                    "account_name": "Clearbrook Senior Living",
+                    "parent_account_id": "001DAAUWV2J3SHQJ34",
+                    "score": 42.0,
+                    "name_score": 40.0,
+                    "street_score": 53.33,
+                    "address_match_count": 1,
+                    "address_evidence": {
+                        "street_match": false,
+                        "city_match": false,
+                        "state_match": true,
+                        "zip_match": false
+                    }
+                }
+            ]
+        },
+        {
+            "website_location_id": 13,
+            "website_name": "Bellhaven Rehabilitation & Nursing of Grove City",
+            "website_address": {
+                "street": "3985 Broadway",
+                "city": "Grove City",
+                "state": "OH",
+                "zip": "43123"
+            },
+            "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-rehabilitation-nursing-of-grove-city",
+            "classification": "CONFIDENT_MATCH",
+            "best_candidate": {
+                "account_id": "001TZCSTBZFM6K5BGN",
+                "account_name": "Bellhaven Rehab and Nursing of Grove City",
+                "parent_account_id": "0015QAPLGS3FVYEEEM",
+                "score": 94.02,
+                "name_score": 85.06,
+                "street_score": 100.0,
+                "address_match_count": 4,
+                "address_evidence": {
+                    "street_match": true,
+                    "city_match": true,
+                    "state_match": true,
+                    "zip_match": true
+                }
+            },
+            "other_candidates": [
+                {
+                    "account_id": "001CRBM9TKD9F721PG",
+                    "account_name": "Harvest Hill Nursing & Rehabilitation",
+                    "parent_account_id": "00139TNDS8HNLUZ5A6",
+                    "score": 51.98,
+                    "name_score": 71.6,
+                    "street_score": 44.44,
+                    "address_match_count": 1,
+                    "address_evidence": {
+                        "street_match": false,
+                        "city_match": false,
+                        "state_match": true,
+                        "zip_match": false
+                    }
+                },
+                {
+                    "account_id": "0016KTS1UAWBRXS09J",
+                    "account_name": "Kettering Nursing & Rehabilitation",
+                    "parent_account_id": "",
+                    "score": 43.15,
+                    "name_score": 69.23,
+                    "street_score": 18.18,
+                    "address_match_count": 1,
+                    "address_evidence": {
+                        "street_match": false,
+                        "city_match": false,
+                        "state_match": true,
+                        "zip_match": false
+                    }
+                }
+            ]
+        },
+        {
+            "website_location_id": 14,
+            "website_name": "Bellhaven at Sycamore Ridge",
+            "website_address": {
+                "street": "7420 Sycamore Ridge Dr",
+                "city": "Miamisburg",
+                "state": "OH",
+                "zip": "45342"
+            },
+            "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-at-sycamore-ridge",
+            "classification": "CONFIDENT_MATCH",
+            "best_candidate": {
+                "account_id": "00191H7JR16471SZ34",
+                "account_name": "Bellhaven of Sycamore Ridge",
+                "parent_account_id": "0015QAPLGS3FVYEEEM",
+                "score": 95.56,
+                "name_score": 88.89,
+                "street_score": 100.0,
+                "address_match_count": 4,
+                "address_evidence": {
+                    "street_match": true,
+                    "city_match": true,
+                    "state_match": true,
+                    "zip_match": true
+                }
+            },
+            "other_candidates": [
+                {
+                    "account_id": "0010KJFP601YNTZVDA",
+                    "account_name": "Arbors at Bellhaven Dayton",
+                    "parent_account_id": "0015QAPLGS3FVYEEEM",
+                    "score": 47.48,
+                    "name_score": 60.38,
+                    "street_score": 44.44,
+                    "address_match_count": 1,
+                    "address_evidence": {
+                        "street_match": false,
+                        "city_match": false,
+                        "state_match": true,
+                        "zip_match": false
+                    }
+                },
+                {
+                    "account_id": "001UELXDAKFRKB8932",
+                    "account_name": "Bellhaven of Port Clinton",
+                    "parent_account_id": "0015QAPLGS3FVYEEEM",
+                    "score": 45.82,
+                    "name_score": 53.85,
+                    "street_score": 47.62,
+                    "address_match_count": 1,
+                    "address_evidence": {
+                        "street_match": false,
+                        "city_match": false,
+                        "state_match": true,
+                        "zip_match": false
+                    }
+                }
+            ]
+        },
+        {
+            "website_location_id": 15,
+            "website_name": "The Arbors at Bellhaven - Dayton",
+            "website_address": {
+                "street": "2210 Salem Ave",
+                "city": "Dayton",
+                "state": "OH",
+                "zip": "45406"
+            },
+            "source_url": "https://analyst-assessment-production.up.railway.app/communities/the-arbors-at-bellhaven-dayton",
+            "classification": "CONFIDENT_MATCH",
+            "best_candidate": {
+                "account_id": "0010KJFP601YNTZVDA",
+                "account_name": "Arbors at Bellhaven Dayton",
+                "parent_account_id": "0015QAPLGS3FVYEEEM",
+                "score": 97.14,
+                "name_score": 92.86,
+                "street_score": 100.0,
+                "address_match_count": 4,
+                "address_evidence": {
+                    "street_match": true,
+                    "city_match": true,
+                    "state_match": true,
+                    "zip_match": true
+                }
+            },
+            "other_candidates": [
+                {
+                    "account_id": "001H1JMVZWP46D5VUF",
+                    "account_name": "Bellhaven of Zanesville",
+                    "parent_account_id": "0015QAPLGS3FVYEEEM",
+                    "score": 51.05,
+                    "name_score": 49.06,
+                    "street_score": 71.43,
+                    "address_match_count": 1,
+                    "address_evidence": {
+                        "street_match": false,
+                        "city_match": false,
+                        "state_match": true,
+                        "zip_match": false
+                    }
+                },
+                {
+                    "account_id": "00116ETS45BL7DTQP7",
+                    "account_name": "Bellhaven Care Center of Alliance",
+                    "parent_account_id": "0015QAPLGS3FVYEEEM",
+                    "score": 49.01,
+                    "name_score": 53.97,
+                    "street_score": 58.06,
+                    "address_match_count": 1,
+                    "address_evidence": {
+                        "street_match": false,
+                        "city_match": false,
+                        "state_match": true,
+                        "zip_match": false
+                    }
+                }
+            ]
+        },
+        {
+            "website_location_id": 16,
+            "website_name": "Bellhaven Healthcare Centre of Ashland",
+            "website_address": {
+                "street": "1631 Claremont Ave",
+                "city": "Ashland",
+                "state": "OH",
+                "zip": "44805"
+            },
+            "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-healthcare-centre-of-ashland",
+            "classification": "CONFIDENT_MATCH",
+            "best_candidate": {
+                "account_id": "001RJ0D7Z5MAZN5HX5",
+                "account_name": "Bellhaven Health Care Center of Ashland",
+                "parent_account_id": "0015QAPLGS3FVYEEEM",
+                "score": 94.29,
+                "name_score": 85.71,
+                "street_score": 100.0,
+                "address_match_count": 4,
+                "address_evidence": {
+                    "street_match": true,
+                    "city_match": true,
+                    "state_match": true,
+                    "zip_match": true
+                }
+            },
+            "other_candidates": [
+                {
+                    "account_id": "00116ETS45BL7DTQP7",
+                    "account_name": "Bellhaven Care Center of Alliance",
+                    "parent_account_id": "0015QAPLGS3FVYEEEM",
+                    "score": 51.88,
+                    "name_score": 70.42,
+                    "street_score": 45.71,
+                    "address_match_count": 1,
+                    "address_evidence": {
+                        "street_match": false,
+                        "city_match": false,
+                        "state_match": true,
+                        "zip_match": false
+                    }
+                },
+                {
+                    "account_id": "0010KJFP601YNTZVDA",
+                    "account_name": "Arbors at Bellhaven Dayton",
+                    "parent_account_id": "0015QAPLGS3FVYEEEM",
+                    "score": 48.12,
+                    "name_score": 53.12,
+                    "street_score": 56.25,
+                    "address_match_count": 1,
+                    "address_evidence": {
+                        "street_match": false,
+                        "city_match": false,
+                        "state_match": true,
+                        "zip_match": false
+                    }
+                }
+            ]
+        },
+        {
+            "website_location_id": 17,
+            "website_name": "Bellhaven of Port Clinton",
+            "website_address": {
+                "street": "1420 Harbor Point Dr",
+                "city": "Port Clinton",
+                "state": "OH",
+                "zip": "43452"
+            },
+            "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-port-clinton",
+            "classification": "CONFIDENT_MATCH",
+            "best_candidate": {
+                "account_id": "001UELXDAKFRKB8932",
+                "account_name": "Bellhaven of Port Clinton",
+                "parent_account_id": "0015QAPLGS3FVYEEEM",
+                "score": 100.0,
+                "name_score": 100.0,
+                "street_score": 100.0,
+                "address_match_count": 4,
+                "address_evidence": {
+                    "street_match": true,
+                    "city_match": true,
+                    "state_match": true,
+                    "zip_match": true
+                }
+            },
+            "other_candidates": [
+                {
+                    "account_id": "001JD2MWRA74LTSN24",
+                    "account_name": "Harborview Nursing & Rehab of Port Clinton",
+                    "parent_account_id": "001FJZYHR7MLFMNPLL",
+                    "score": 79.69,
+                    "name_score": 49.23,
+                    "street_score": 100.0,
+                    "address_match_count": 4,
+                    "address_evidence": {
+                        "street_match": true,
+                        "city_match": true,
+                        "state_match": true,
+                        "zip_match": true
+                    }
+                },
+                {
+                    "account_id": "0015L38R1Z5947ZZP7",
+                    "account_name": "Bellhaven of Marion",
+                    "parent_account_id": "0015QAPLGS3FVYEEEM",
+                    "score": 50.44,
+                    "name_score": 72.73,
+                    "street_score": 37.84,
+                    "address_match_count": 1,
+                    "address_evidence": {
+                        "street_match": false,
+                        "city_match": false,
+                        "state_match": true,
+                        "zip_match": false
+                    }
+                }
+            ]
+        },
+        {
+            "website_location_id": 18,
+            "website_name": "Bellhaven Shores of Erie",
+            "website_address": {
+                "street": "4930 W Lake Rd",
+                "city": "Erie",
+                "state": "PA",
+                "zip": "16505"
+            },
+            "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-shores-of-erie",
+            "classification": "CONFIDENT_MATCH",
+            "best_candidate": {
+                "account_id": "001CVBBCSDM7YHN220",
+                "account_name": "Bellhaven Shores of Erie",
+                "parent_account_id": "0015QAPLGS3FVYEEEM",
+                "score": 100.0,
+                "name_score": 100.0,
+                "street_score": 100.0,
+                "address_match_count": 4,
+                "address_evidence": {
+                    "street_match": true,
+                    "city_match": true,
+                    "state_match": true,
+                    "zip_match": true
+                }
+            },
+            "other_candidates": [
+                {
+                    "account_id": "001BLYF02K97SZLZHH",
+                    "account_name": "Harborview Shores of Erie",
+                    "parent_account_id": "001FJZYHR7MLFMNPLL",
+                    "score": 83.22,
+                    "name_score": 65.31,
+                    "street_score": 90.32,
+                    "address_match_count": 4,
+                    "address_evidence": {
+                        "street_match": true,
+                        "city_match": true,
+                        "state_match": true,
+                        "zip_match": true
+                    }
+                },
+                {
+                    "account_id": "00184531EB13F262E4",
+                    "account_name": "Bellhaven of Carlisle",
+                    "parent_account_id": "0015QAPLGS3FVYEEEM",
+                    "score": 52.56,
+                    "name_score": 71.11,
+                    "street_score": 47.06,
+                    "address_match_count": 1,
+                    "address_evidence": {
+                        "street_match": false,
+                        "city_match": false,
+                        "state_match": true,
+                        "zip_match": false
+                    }
+                }
+            ]
+        },
+        {
+            "website_location_id": 19,
+            "website_name": "Bellhaven of Kettering",
+            "website_address": {
+                "street": "3313 Wilmington Pike",
+                "city": "Kettering",
+                "state": "OH",
+                "zip": "45429"
+            },
+            "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-kettering",
+            "classification": "CONFIDENT_MATCH",
+            "best_candidate": {
+                "account_id": "001E52772605FC687A",
+                "account_name": "Bellhaven of Kettering",
+                "parent_account_id": "0015QAPLGS3FVYEEEM",
+                "score": 100.0,
+                "name_score": 100.0,
+                "street_score": 100.0,
+                "address_match_count": 4,
+                "address_evidence": {
+                    "street_match": true,
+                    "city_match": true,
+                    "state_match": true,
+                    "zip_match": true
+                }
+            },
+            "other_candidates": [
+                {
+                    "account_id": "001WR41PYNWXCAE2X4",
+                    "account_name": "Kettering Care Centre",
+                    "parent_account_id": "001FJZYHR7MLFMNPLL",
+                    "score": 84.19,
+                    "name_score": 60.47,
+                    "street_score": 100.0,
+                    "address_match_count": 4,
+                    "address_evidence": {
+                        "street_match": true,
+                        "city_match": true,
+                        "state_match": true,
+                        "zip_match": true
+                    }
+                },
+                {
+                    "account_id": "001B7XZAA3AFALS9GP",
+                    "account_name": "Kettering Senior Campus",
+                    "parent_account_id": "001FWSQ30SFW6S7604",
+                    "score": 81.53,
+                    "name_score": 57.78,
+                    "street_score": 94.74,
+                    "address_match_count": 4,
+                    "address_evidence": {
+                        "street_match": true,
+                        "city_match": true,
+                        "state_match": true,
+                        "zip_match": true
+                    }
+                }
+            ]
+        },
+        {
+            "website_location_id": 20,
+            "website_name": "Bellhaven Gardens of Monroe",
+            "website_address": {
+                "street": "750 Stewart Rd",
+                "city": "Monroe",
+                "state": "MI",
+                "zip": "48162"
+            },
+            "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-gardens-of-monroe",
+            "classification": "CONFIDENT_MATCH",
+            "best_candidate": {
+                "account_id": "001U1750VLVJAGG1S5",
+                "account_name": "Bellhaven Gardens of Monroe",
+                "parent_account_id": "0015QAPLGS3FVYEEEM",
+                "score": 100.0,
+                "name_score": 100.0,
+                "street_score": 100.0,
+                "address_match_count": 4,
+                "address_evidence": {
+                    "street_match": true,
+                    "city_match": true,
+                    "state_match": true,
+                    "zip_match": true
+                }
+            },
+            "other_candidates": [
+                {
+                    "account_id": "00159PL81N38KM4FHM",
+                    "account_name": "Monroe Gardens Care Center",
+                    "parent_account_id": "001FJZYHR7MLFMNPLL",
+                    "score": 87.17,
+                    "name_score": 67.92,
+                    "street_score": 100.0,
+                    "address_match_count": 4,
+                    "address_evidence": {
+                        "street_match": true,
+                        "city_match": true,
+                        "state_match": true,
+                        "zip_match": true
+                    }
+                },
+                {
+                    "account_id": "0011AB44D05WLA9HTX",
+                    "account_name": "Cedar Trail of Monroe",
+                    "parent_account_id": "001FWSQ30SFW6S7604",
+                    "score": 81.67,
+                    "name_score": 54.17,
+                    "street_score": 100.0,
+                    "address_match_count": 4,
+                    "address_evidence": {
+                        "street_match": true,
+                        "city_match": true,
+                        "state_match": true,
+                        "zip_match": true
+                    }
+                }
+            ]
+        },
+        {
+            "website_location_id": 21,
+            "website_name": "Bellhaven of Tiffin",
+            "website_address": {
+                "street": "45 St Lawrence Dr",
+                "city": "Tiffin",
+                "state": "OH",
+                "zip": "44883"
+            },
+            "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-tiffin",
+            "classification": "CONFIDENT_MATCH",
+            "best_candidate": {
+                "account_id": "0012ECA69C6B06A2BB",
+                "account_name": "Bellhaven of Tiffin",
+                "parent_account_id": "0015QAPLGS3FVYEEEM",
+                "score": 100.0,
+                "name_score": 100.0,
+                "street_score": 100.0,
+                "address_match_count": 4,
+                "address_evidence": {
+                    "street_match": true,
+                    "city_match": true,
+                    "state_match": true,
+                    "zip_match": true
+                }
+            },
+            "other_candidates": [
+                {
+                    "account_id": "001U6RW32TY0WSXZZB",
+                    "account_name": "Bellhaven of Tiffin",
+                    "parent_account_id": "001FWSQ30SFW6S7604",
+                    "score": 100.0,
+                    "name_score": 100.0,
+                    "street_score": 100.0,
+                    "address_match_count": 4,
+                    "address_evidence": {
+                        "street_match": true,
+                        "city_match": true,
+                        "state_match": true,
+                        "zip_match": true
+                    }
+                },
+                {
+                    "account_id": "001UELXDAKFRKB8932",
+                    "account_name": "Bellhaven of Port Clinton",
+                    "parent_account_id": "0015QAPLGS3FVYEEEM",
+                    "score": 50.05,
+                    "name_score": 63.64,
+                    "street_score": 48.65,
+                    "address_match_count": 1,
+                    "address_evidence": {
+                        "street_match": false,
+                        "city_match": false,
+                        "state_match": true,
+                        "zip_match": false
+                    }
+                }
+            ]
+        },
+        {
+            "website_location_id": 22,
+            "website_name": "Bellhaven of Marietta",
+            "website_address": {
+                "street": "805 Colegate Dr",
+                "city": "Marietta",
+                "state": "OH",
+                "zip": "45750"
+            },
+            "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-marietta",
+            "classification": "MATCH_WRONG_PARENT",
+            "best_candidate": {
+                "account_id": "001A34WFSUYHCRBLFT",
+                "account_name": "Bellhaven of Marietta",
+                "parent_account_id": "001FWSQ30SFW6S7604",
+                "score": 100.0,
+                "name_score": 100.0,
+                "street_score": 100.0,
+                "address_match_count": 4,
+                "address_evidence": {
+                    "street_match": true,
+                    "city_match": true,
+                    "state_match": true,
+                    "zip_match": true
+                }
+            },
+            "other_candidates": [
+                {
+                    "account_id": "001D8A1822FA615FAC",
+                    "account_name": "Bellhaven of Marietta",
+                    "parent_account_id": "0015QAPLGS3FVYEEEM",
+                    "score": 100.0,
+                    "name_score": 100.0,
+                    "street_score": 100.0,
+                    "address_match_count": 4,
+                    "address_evidence": {
+                        "street_match": true,
+                        "city_match": true,
+                        "state_match": true,
+                        "zip_match": true
+                    }
+                },
+                {
+                    "account_id": "001R4PXTUD9R6FNN8V",
+                    "account_name": "Bellhaven of Defiance",
+                    "parent_account_id": "0015QAPLGS3FVYEEEM",
+                    "score": 54.06,
+                    "name_score": 71.43,
+                    "street_score": 51.61,
+                    "address_match_count": 1,
+                    "address_evidence": {
+                        "street_match": false,
+                        "city_match": false,
+                        "state_match": true,
+                        "zip_match": false
+                    }
+                }
+            ]
+        },
+        {
+            "website_location_id": 23,
+            "website_name": "Bellhaven Crossings of Lima",
+            "website_address": {
+                "street": "3115 N Cole St",
+                "city": "Lima",
+                "state": "OH",
+                "zip": "45801"
+            },
+            "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-crossings-of-lima",
+            "classification": "CONFIDENT_MATCH",
+            "best_candidate": {
+                "account_id": "001LGFPBJY4N9MB6KL",
+                "account_name": "Bellhaven Crossings of Lima",
+                "parent_account_id": "0015QAPLGS3FVYEEEM",
+                "score": 100.0,
+                "name_score": 100.0,
+                "street_score": 100.0,
+                "address_match_count": 4,
+                "address_evidence": {
+                    "street_match": true,
+                    "city_match": true,
+                    "state_match": true,
+                    "zip_match": true
+                }
+            },
+            "other_candidates": [
+                {
+                    "account_id": "00142EBFF13E38186A",
+                    "account_name": "Bellhaven of Chagrin Falls",
+                    "parent_account_id": "0015QAPLGS3FVYEEEM",
+                    "score": 54.83,
+                    "name_score": 71.7,
+                    "street_score": 53.85,
+                    "address_match_count": 1,
+                    "address_evidence": {
+                        "street_match": false,
+                        "city_match": false,
+                        "state_match": true,
+                        "zip_match": false
+                    }
+                },
+                {
+                    "account_id": "001AQGPZ5G5VRES536",
+                    "account_name": "Bellhaven of New Carlisle",
+                    "parent_account_id": "0015QAPLGS3FVYEEEM",
+                    "score": 52.69,
+                    "name_score": 69.23,
+                    "street_score": 50.0,
+                    "address_match_count": 1,
+                    "address_evidence": {
+                        "street_match": false,
+                        "city_match": false,
+                        "state_match": true,
+                        "zip_match": false
+                    }
+                }
+            ]
+        },
+        {
+            "website_location_id": 24,
+            "website_name": "Bellhaven of Zanesville",
+            "website_address": {
+                "street": "2680 Maple Ave",
+                "city": "Zanesville",
+                "state": "OH",
+                "zip": "43701"
+            },
+            "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-zanesville",
+            "classification": "CONFIDENT_MATCH",
+            "best_candidate": {
+                "account_id": "001H1JMVZWP46D5VUF",
+                "account_name": "Bellhaven of Zanesville",
+                "parent_account_id": "0015QAPLGS3FVYEEEM",
+                "score": 100.0,
+                "name_score": 100.0,
+                "street_score": 100.0,
+                "address_match_count": 4,
+                "address_evidence": {
+                    "street_match": true,
+                    "city_match": true,
+                    "state_match": true,
+                    "zip_match": true
+                }
+            },
+            "other_candidates": [
+                {
+                    "account_id": "001SXSF4ELF0Z2LGDM",
+                    "account_name": "Bellhaven of Sandusky",
+                    "parent_account_id": "0015QAPLGS3FVYEEEM",
+                    "score": 52.64,
+                    "name_score": 72.73,
+                    "street_score": 45.16,
+                    "address_match_count": 1,
+                    "address_evidence": {
+                        "street_match": false,
+                        "city_match": false,
+                        "state_match": true,
+                        "zip_match": false
+                    }
+                },
+                {
+                    "account_id": "0010KJFP601YNTZVDA",
+                    "account_name": "Arbors at Bellhaven Dayton",
+                    "parent_account_id": "0015QAPLGS3FVYEEEM",
+                    "score": 51.02,
+                    "name_score": 48.98,
+                    "street_score": 71.43,
+                    "address_match_count": 1,
+                    "address_evidence": {
+                        "street_match": false,
+                        "city_match": false,
+                        "state_match": true,
+                        "zip_match": false
+                    }
+                }
+            ]
+        },
+        {
+            "website_location_id": 25,
+            "website_name": "Bellhaven of Chagrin Falls",
+            "website_address": {
+                "street": "150 River St",
+                "city": "Chagrin Falls",
+                "state": "OH",
+                "zip": "44022"
+            },
+            "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-chagrin-falls",
+            "classification": "CONFIDENT_MATCH",
+            "best_candidate": {
+                "account_id": "00142EBFF13E38186A",
+                "account_name": "Bellhaven of Chagrin Falls",
+                "parent_account_id": "0015QAPLGS3FVYEEEM",
+                "score": 100.0,
+                "name_score": 100.0,
+                "street_score": 100.0,
+                "address_match_count": 4,
+                "address_evidence": {
+                    "street_match": true,
+                    "city_match": true,
+                    "state_match": true,
+                    "zip_match": true
+                }
+            },
+            "other_candidates": [
+                {
+                    "account_id": "001RJU1X4NBWC1Q0G7",
+                    "account_name": "Riverbend Manor Care Center",
+                    "parent_account_id": "0015QAPLGS3FVYEEEM",
+                    "score": 72.08,
+                    "name_score": 30.19,
+                    "street_score": 100.0,
+                    "address_match_count": 4,
+                    "address_evidence": {
+                        "street_match": true,
+                        "city_match": true,
+                        "state_match": true,
+                        "zip_match": true
+                    }
+                },
+                {
+                    "account_id": "001LGFPBJY4N9MB6KL",
+                    "account_name": "Bellhaven Crossings of Lima",
+                    "parent_account_id": "0015QAPLGS3FVYEEEM",
+                    "score": 54.83,
+                    "name_score": 71.7,
+                    "street_score": 53.85,
+                    "address_match_count": 1,
+                    "address_evidence": {
+                        "street_match": false,
+                        "city_match": false,
+                        "state_match": true,
+                        "zip_match": false
+                    }
+                }
+            ]
+        },
+        {
+            "website_location_id": 27,
+            "website_name": "Bellhaven of Ashtabula",
+            "website_address": {
+                "street": "3156 W Prospect Rd",
+                "city": "Ashtabula",
+                "state": "OH",
+                "zip": "44004"
+            },
+            "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-ashtabula",
+            "classification": "POSSIBLE_MATCH",
+            "best_candidate": {
+                "account_id": "001NXP9X46CWEPSLSV",
+                "account_name": "Bellhaven of Ashtabula",
+                "parent_account_id": "0015QAPLGS3FVYEEEM",
+                "score": 78.57,
+                "name_score": 100.0,
+                "street_score": 28.57,
+                "address_match_count": 3,
+                "address_evidence": {
+                    "street_match": false,
+                    "city_match": true,
+                    "state_match": true,
+                    "zip_match": true
+                }
+            },
+            "other_candidates": [
+                {
+                    "account_id": "0015L38R1Z5947ZZP7",
+                    "account_name": "Bellhaven of Marion",
+                    "parent_account_id": "0015QAPLGS3FVYEEEM",
+                    "score": 48.84,
+                    "name_score": 58.54,
+                    "street_score": 51.43,
+                    "address_match_count": 1,
+                    "address_evidence": {
+                        "street_match": false,
+                        "city_match": false,
+                        "state_match": true,
+                        "zip_match": false
+                    }
+                },
+                {
+                    "account_id": "001R4PXTUD9R6FNN8V",
+                    "account_name": "Bellhaven of Defiance",
+                    "parent_account_id": "0015QAPLGS3FVYEEEM",
+                    "score": 46.44,
+                    "name_score": 55.81,
+                    "street_score": 47.06,
+                    "address_match_count": 1,
+                    "address_evidence": {
+                        "street_match": false,
+                        "city_match": false,
+                        "state_match": true,
+                        "zip_match": false
+                    }
+                }
+            ]
+        },
+        {
+            "website_location_id": 28,
+            "website_name": "Bellhaven of Owosso",
+            "website_address": {
+                "street": "1120 W Main St",
+                "city": "Owosso",
+                "state": "MI",
+                "zip": "48867"
+            },
+            "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-owosso",
+            "classification": "CONFIDENT_MATCH",
+            "best_candidate": {
+                "account_id": "001EGU7BMJ942ZTRE6",
+                "account_name": "Bellhaven of Owosso",
+                "parent_account_id": "0015QAPLGS3FVYEEEM",
+                "score": 100.0,
+                "name_score": 100.0,
+                "street_score": 100.0,
+                "address_match_count": 4,
+                "address_evidence": {
+                    "street_match": true,
+                    "city_match": true,
+                    "state_match": true,
+                    "zip_match": true
+                }
+            },
+            "other_candidates": [
+                {
+                    "account_id": "001QU150PM4Z15UA71",
+                    "account_name": "Bellhaven of Owosso",
+                    "parent_account_id": "0015QAPLGS3FVYEEEM",
+                    "score": 97.1,
+                    "name_score": 100.0,
+                    "street_score": 90.32,
+                    "address_match_count": 4,
+                    "address_evidence": {
+                        "street_match": true,
+                        "city_match": true,
+                        "state_match": true,
+                        "zip_match": true
+                    }
+                },
+                {
+                    "account_id": "001MVVAPY6U5TVYRC4",
+                    "account_name": "Bellhaven of Saline",
+                    "parent_account_id": "0015QAPLGS3FVYEEEM",
+                    "score": 53.19,
+                    "name_score": 73.68,
+                    "street_score": 45.71,
+                    "address_match_count": 1,
+                    "address_evidence": {
+                        "street_match": false,
+                        "city_match": false,
+                        "state_match": true,
+                        "zip_match": false
+                    }
+                }
+            ]
+        },
+        {
+            "website_location_id": 29,
+            "website_name": "Bellhaven of Portsmouth",
+            "website_address": {
+                "street": "2222 Gallia St",
+                "city": "Portsmouth",
+                "state": "OH",
+                "zip": "45662"
+            },
+            "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-portsmouth",
+            "classification": "CONFIDENT_MATCH",
+            "best_candidate": {
+                "account_id": "001CF3LDWVRGL09P4F",
+                "account_name": "Bellhaven of Portsmouth",
+                "parent_account_id": "0015QAPLGS3FVYEEEM",
+                "score": 90.0,
+                "name_score": 100.0,
+                "street_score": 100.0,
+                "address_match_count": 3,
+                "address_evidence": {
+                    "street_match": true,
+                    "city_match": true,
+                    "state_match": true,
+                    "zip_match": false
+                }
+            },
+            "other_candidates": [
+                {
+                    "account_id": "001W5G121A7SMRP58M",
+                    "account_name": "Bellhaven of Wooster",
+                    "parent_account_id": "0015QAPLGS3FVYEEEM",
+                    "score": 51.38,
+                    "name_score": 74.42,
+                    "street_score": 38.71,
+                    "address_match_count": 1,
+                    "address_evidence": {
+                        "street_match": false,
+                        "city_match": false,
+                        "state_match": true,
+                        "zip_match": false
+                    }
+                },
+                {
+                    "account_id": "0012ECA69C6B06A2BB",
+                    "account_name": "Bellhaven of Tiffin",
+                    "parent_account_id": "0015QAPLGS3FVYEEEM",
+                    "score": 48.28,
+                    "name_score": 66.67,
+                    "street_score": 38.71,
+                    "address_match_count": 1,
+                    "address_evidence": {
+                        "street_match": false,
+                        "city_match": false,
+                        "state_match": true,
+                        "zip_match": false
+                    }
+                }
+            ]
+        },
+        {
+            "website_location_id": 30,
+            "website_name": "Bellhaven of Batavia",
+            "website_address": {
+                "street": "2000 Hospital Dr",
+                "city": "Batavia",
+                "state": "OH",
+                "zip": "45103"
+            },
+            "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-batavia",
+            "classification": "NO_CRM_ACCOUNT",
+            "best_candidate": {
+                "account_id": "0010KJFP601YNTZVDA",
+                "account_name": "Arbors at Bellhaven Dayton",
+                "parent_account_id": "0015QAPLGS3FVYEEEM",
+                "score": 50.09,
+                "name_score": 65.22,
+                "street_score": 46.67,
+                "address_match_count": 1,
+                "address_evidence": {
+                    "street_match": false,
+                    "city_match": false,
+                    "state_match": true,
+                    "zip_match": false
+                }
+            },
+            "other_candidates": [
+                {
+                    "account_id": "001UELXDAKFRKB8932",
+                    "account_name": "Bellhaven of Port Clinton",
+                    "parent_account_id": "0015QAPLGS3FVYEEEM",
+                    "score": 49.67,
+                    "name_score": 53.33,
+                    "street_score": 61.11,
+                    "address_match_count": 1,
+                    "address_evidence": {
+                        "street_match": false,
+                        "city_match": false,
+                        "state_match": true,
+                        "zip_match": false
+                    }
+                },
+                {
+                    "account_id": "001NXP9X46CWEPSLSV",
+                    "account_name": "Bellhaven of Ashtabula",
+                    "parent_account_id": "0015QAPLGS3FVYEEEM",
+                    "score": 49.3,
+                    "name_score": 80.95,
+                    "street_score": 23.08,
+                    "address_match_count": 1,
+                    "address_evidence": {
+                        "street_match": false,
+                        "city_match": false,
+                        "state_match": true,
+                        "zip_match": false
+                    }
+                }
+            ]
+        },
+        {
+            "website_location_id": 31,
+            "website_name": "Bellhaven at Union Square",
+            "website_address": {
+                "street": "118 Union Square Dr",
+                "city": "New Albany",
+                "state": "OH",
+                "zip": "43054"
+            },
+            "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-at-union-square",
+            "classification": "NO_CRM_ACCOUNT",
+            "best_candidate": {
+                "account_id": "001GNU41AVXZRLLJ9P",
+                "account_name": "Union Square Senior Living",
+                "parent_account_id": "001DAAUWV2J3SHQJ34",
+                "score": 66.04,
+                "name_score": 66.67,
+                "street_score": 31.25,
+                "address_match_count": 3,
+                "address_evidence": {
+                    "street_match": false,
+                    "city_match": true,
+                    "state_match": true,
+                    "zip_match": true
+                }
+            },
+            "other_candidates": [
+                {
+                    "account_id": "0015L38R1Z5947ZZP7",
+                    "account_name": "Bellhaven of Marion",
+                    "parent_account_id": "0015QAPLGS3FVYEEEM",
+                    "score": 47.27,
+                    "name_score": 68.18,
+                    "street_score": 33.33,
+                    "address_match_count": 1,
+                    "address_evidence": {
+                        "street_match": false,
+                        "city_match": false,
+                        "state_match": true,
+                        "zip_match": false
+                    }
+                },
+                {
+                    "account_id": "001RJ0D7Z5MAZN5HX5",
+                    "account_name": "Bellhaven Health Care Center of Ashland",
+                    "parent_account_id": "0015QAPLGS3FVYEEEM",
+                    "score": 47.09,
+                    "name_score": 56.25,
+                    "street_score": 48.65,
+                    "address_match_count": 1,
+                    "address_evidence": {
+                        "street_match": false,
+                        "city_match": false,
+                        "state_match": true,
+                        "zip_match": false
+                    }
+                }
+            ]
+        },
+        {
+            "website_location_id": 32,
+            "website_name": "Bellhaven of Carlisle",
+            "website_address": {
+                "street": "640 Walnut Bottom Rd",
+                "city": "Carlisle",
+                "state": "PA",
+                "zip": "17015"
+            },
+            "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-carlisle",
+            "classification": "CONFIDENT_MATCH",
+            "best_candidate": {
+                "account_id": "00184531EB13F262E4",
+                "account_name": "Bellhaven of Carlisle",
+                "parent_account_id": "0015QAPLGS3FVYEEEM",
+                "score": 100.0,
+                "name_score": 100.0,
+                "street_score": 100.0,
+                "address_match_count": 4,
+                "address_evidence": {
+                    "street_match": true,
+                    "city_match": true,
+                    "state_match": true,
+                    "zip_match": true
+                }
+            },
+            "other_candidates": [
+                {
+                    "account_id": "001CVBBCSDM7YHN220",
+                    "account_name": "Bellhaven Shores of Erie",
+                    "parent_account_id": "0015QAPLGS3FVYEEEM",
+                    "score": 52.56,
+                    "name_score": 71.11,
+                    "street_score": 47.06,
+                    "address_match_count": 1,
+                    "address_evidence": {
+                        "street_match": false,
+                        "city_match": false,
+                        "state_match": true,
+                        "zip_match": false
+                    }
+                },
+                {
+                    "account_id": "001KC1NG7EZDEKKA3T",
+                    "account_name": "Bellhaven of Meadville",
+                    "parent_account_id": "0015QAPLGS3FVYEEEM",
+                    "score": 51.91,
+                    "name_score": 79.07,
+                    "street_score": 34.29,
+                    "address_match_count": 1,
+                    "address_evidence": {
+                        "street_match": false,
+                        "city_match": false,
+                        "state_match": true,
+                        "zip_match": false
+                    }
+                }
+            ]
+        },
+        {
+            "website_location_id": 33,
+            "website_name": "Amberly Manor",
+            "website_address": {
+                "street": "4390 Darrow Rd",
+                "city": "Hudson",
+                "state": "OH",
+                "zip": "44236"
+            },
+            "source_url": "https://analyst-assessment-production.up.railway.app/communities/amberly-manor",
+            "classification": "CONFIDENT_MATCH",
+            "best_candidate": {
+                "account_id": "001E670D49F9D8A9F1",
+                "account_name": "Amberly Manor",
+                "parent_account_id": "0015QAPLGS3FVYEEEM",
+                "score": 100.0,
+                "name_score": 100.0,
+                "street_score": 100.0,
+                "address_match_count": 4,
+                "address_evidence": {
+                    "street_match": true,
+                    "city_match": true,
+                    "state_match": true,
+                    "zip_match": true
+                }
+            },
+            "other_candidates": [
+                {
+                    "account_id": "0015D74ZLRY810RGY5",
+                    "account_name": "Amberly Manor",
+                    "parent_account_id": "001DAAUWV2J3SHQJ34",
+                    "score": 50.0,
+                    "name_score": 100.0,
+                    "street_score": 33.33,
+                    "address_match_count": 0,
+                    "address_evidence": {
+                        "street_match": false,
+                        "city_match": false,
+                        "state_match": false,
+                        "zip_match": false
+                    }
+                },
+                {
+                    "account_id": "001WC2VPMSRMLGKEFS",
+                    "account_name": "Bristol Manor Gardens",
+                    "parent_account_id": "001DAAUWV2J3SHQJ34",
+                    "score": 45.02,
+                    "name_score": 52.94,
+                    "street_score": 46.15,
+                    "address_match_count": 1,
+                    "address_evidence": {
+                        "street_match": false,
+                        "city_match": false,
+                        "state_match": true,
+                        "zip_match": false
+                    }
+                }
+            ]
+        },
+        {
+            "website_location_id": 34,
+            "website_name": "Bellhaven of Chesterton",
+            "website_address": {
+                "street": "1250 NW Franklin Street",
+                "city": "Chesterton",
+                "state": "IN",
+                "zip": "46304"
+            },
+            "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-chesterton",
+            "classification": "POSSIBLE_MATCH",
+            "best_candidate": {
+                "account_id": "0013NUZQHQUEZ8DXEG",
+                "account_name": "Chesterton Senior Commons",
+                "parent_account_id": "0015QAPLGS3FVYEEEM",
+                "score": 75.33,
+                "name_score": 50.0,
+                "street_score": 84.44,
+                "address_match_count": 3,
+                "address_evidence": {
+                    "street_match": false,
+                    "city_match": true,
+                    "state_match": true,
+                    "zip_match": true
+                }
+            },
+            "other_candidates": [
+                {
+                    "account_id": "001JQER1RMYKNRLNME",
+                    "account_name": "Bellhaven of Goshen",
+                    "parent_account_id": "0015QAPLGS3FVYEEEM",
+                    "score": 49.05,
+                    "name_score": 76.19,
+                    "street_score": 28.57,
+                    "address_match_count": 1,
+                    "address_evidence": {
+                        "street_match": false,
+                        "city_match": false,
+                        "state_match": true,
+                        "zip_match": false
+                    }
+                },
+                {
+                    "account_id": "00142EBFF13E38186A",
+                    "account_name": "Bellhaven of Chagrin Falls",
+                    "parent_account_id": "0015QAPLGS3FVYEEEM",
+                    "score": 45.17,
+                    "name_score": 69.39,
+                    "street_score": 58.06,
+                    "address_match_count": 0,
+                    "address_evidence": {
+                        "street_match": false,
+                        "city_match": false,
+                        "state_match": false,
+                        "zip_match": false
+                    }
+                }
+            ]
+        }
+    ],
+    "crm_only_accounts": [
+        {
+            "account_id": "00116ETS45BL7DTQP7",
+            "account_name": "Bellhaven Care Center of Alliance",
+            "parent_account_id": "0015QAPLGS3FVYEEEM",
+            "status": "Active",
+            "lifetime_revenue": "0.00",
+            "outstanding_ar": "0.00",
+            "note": "",
+            "classification": "CRM_ONLY"
+        },
+        {
+            "account_id": "0016PVXH4B25HWR7QE",
+            "account_name": "Bellhaven of Coldwater",
+            "parent_account_id": "0015QAPLGS3FVYEEEM",
+            "status": "Active",
+            "lifetime_revenue": "0.00",
+            "outstanding_ar": "0.00",
+            "note": "",
+            "classification": "CRM_ONLY"
+        },
+        {
+            "account_id": "001SXSF4ELF0Z2LGDM",
+            "account_name": "Bellhaven of Sandusky",
+            "parent_account_id": "0015QAPLGS3FVYEEEM",
+            "status": "Active",
+            "lifetime_revenue": "130000.00",
+            "outstanding_ar": "5200.00",
+            "note": "",
+            "classification": "CRM_ONLY"
+        },
+        {
+            "account_id": "0017MN2JYAJBDS8WQZ",
+            "account_name": "Sunny Acres Retirement Home",
+            "parent_account_id": "0015QAPLGS3FVYEEEM",
+            "status": "Active",
+            "lifetime_revenue": "0.00",
+            "outstanding_ar": "0.00",
+            "note": "",
+            "classification": "CRM_ONLY"
+        },
+        {
+            "account_id": "001RJU1X4NBWC1Q0G7",
+            "account_name": "Riverbend Manor Care Center",
+            "parent_account_id": "0015QAPLGS3FVYEEEM",
+            "status": "Active",
+            "lifetime_revenue": "0.00",
+            "outstanding_ar": "0.00",
+            "note": "",
+            "classification": "CRM_ONLY"
+        }
+    ]
+}
